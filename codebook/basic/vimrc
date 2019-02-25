@@ -1,0 +1,7 @@
+sy on
+se sw=4 ts=4 sts=4 et nu sc hls rnu
+filet plugin indent on
+no <F5> :!./a.out<CR>
+no <F6> :!./a.out < input.txt<CR>
+no <F9> :!g++ -O2 -std=gnu++14 -lm % -g -fsanitize=undefined -Wall -Wextra -Wshadow -Wno-unused-result<CR>
+

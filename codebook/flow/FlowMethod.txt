@@ -1,0 +1,34 @@
+Maximize c^T x subject to Ax ≤ b, x ≥ 0;
+with the corresponding symmetric dual problem,
+Minimize b^T y subject to A^T y ≥ c, y ≥ 0.
+
+Maximize c^T x subject to Ax ≤ b;
+with the corresponding asymmetric dual problem,
+Minimize b^T y subject to A^T y = c, y ≥ 0. 
+
+
+Minimum vertex cover on bipartite graph =
+Maximum matching on bipartite graph =
+Max flow with source to one side, other side to sink
+
+To reconstruct the minimum vertex cover, dfs from each
+unmatched vertex on the left side and with unused edges
+only. Equivalently, dfs from source with unused edges
+only and without visiting sink. Then, a vertex is chosen
+iff. it is on the left side and without visited or on
+the right side and visited through dfs.
+
+
+Maximum density subgraph ( \sum W_e + \sum W_v ) / |V|
+
+Binary search on answer:
+For a fixed D, construct a Max flow model as follow:
+Let S be Sum of all weight( or inf)
+1. from source to each node with cap = S
+2. For each (u,v,w) in E, (u->v,cap=w), (v->u,cap=w)
+3. For each node v, from v to sink with cap = S + 2 * D - deg[v] - 2 * (W of v)
+where deg[v] = \sum weight of edge associated with v
+If maxflow < S * |V|, D is an answer.
+
+Requiring subgraph: all vertex can be reached from source with
+edge whose cap > 0.
