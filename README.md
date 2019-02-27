@@ -49,9 +49,9 @@ codebook by PECaveros, wangyenjen, johnchen902, nonamefour0210
 
 | Contest                      | Date          | Rank |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | ---------------------------- |:-------------:|:----:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| World Finals 2011            | 2019/02/23    |  22  | A | **B** | C | **D** | (E) | F | . | H | . | J | K |
+| World Finals 2011            | 2019/02/23    |  22  | A | **B** | C | **D** | (E) | F | (G) | H | . | J | K |
 | NEERC 12                     | 2019/02/25    |  13  | A | B | C | (D) | E | F | G | H | (I) | J | . | . |
-| Russian Code Cup Finals 2017 | 2019/02/26    |  20  | A | B | C | . | . | . | 
+| Russian Code Cup Finals 2017 | 2019/02/26    |  20  | A | B | C | **D** | . | . | 
 
 
 - A : 賽內AC
