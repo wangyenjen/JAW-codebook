@@ -53,7 +53,7 @@ codebook by PECaveros, wangyenjen, johnchen902, nonamefour0210
 | NEERC 12                     | 2019/02/25    |  13  | A | B | C | (D) | E | F | G | H | (I) | J | . | . |
 | Russian Code Cup Finals 2017 | 2019/02/26    |  20  | A | B | C | **D** | (E) | . | 
 | OpenCup IX Yandex            | 2019/02/28    |  10  | A | . | . | D | E | **F** | . | H | . | J |
-| OpenCup 2011 Saratov         | 2019/03/02    |  09  | A | . | C | D | E | . | . | . | I | J |
+| OpenCup 2011 Saratov         | 2019/03/02    |   9  | A | . | C | D | E | . | . | . | I | J |
 
 
 - A : 賽內AC
