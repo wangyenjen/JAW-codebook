@@ -54,6 +54,7 @@ codebook by PECaveros, wangyenjen, johnchen902, nonamefour0210
 | Russian Code Cup Finals 2017 | 2019/02/26    |  20  | A | B | C | **D** | (E) | . | 
 | OpenCup IX Yandex            | 2019/02/28    |  10  | A | . | . | D | E | **F** | . | H | . | J |
 | OpenCup IX Saratov           | 2019/03/02    |   9  | A | . | C | D | E | . | . | . | I | J |
+| NEERC 10                     | 2019/03/03    |   3  | A | B | (C) | D | E | F | G | H | I | J | K |
 
 
 - A : 賽內AC
