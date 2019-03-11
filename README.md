@@ -57,6 +57,7 @@ codebook by PECaveros, wangyenjen, johnchen902, nonamefour0210
 | NEERC 10                               | 2019/03/03    |   3  | A | B | (C) | D | E | F | G | H | I | J | K |
 | Petrozavodsk 2010 Kyiv NU              | 2019/03/08    |   5  | (A) | B | . | (D) | E | . | G | H | . | . |
 | Petrozavodsk 2011 Kyiv + Kharkov NU    | 2019/03/09    |   3  | A | . | C | D | E | F | . | H | I | . | K |
+| World Finals 2012                      | 2019/03/11    |  28  | . | B | C | D | . | . | . | . | . | . | K | L |
 
 
 - A : 賽內AC
