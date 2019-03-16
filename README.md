@@ -59,6 +59,7 @@ codebook by PECaveros, wangyenjen, johnchen902, nonamefour0210
 | Petrozavodsk 2011 Kyiv + Kharkov NU    | 2019/03/09    |   3  | A | . | C | D | E | F | . | H | I | . | K |
 | World Finals 2012                      | 2019/03/11    |  28  | . | B | C | D | **E** | . | . | . | . | . | K | L |
 | World Finals 2013                      | 2019/03/15    |  18  | A | **B** | C | D | E | F | . | H | (I) | (J) | (K) |
+| World Finals 2014                      | 2019/03/16    |   6  | . | (B) | C | D | E | (F) | . | . | I | . | K | . |
 
 
 - A : 賽內AC
