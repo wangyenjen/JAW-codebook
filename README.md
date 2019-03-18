@@ -60,6 +60,8 @@ codebook by PECaveros, wangyenjen, johnchen902, nonamefour0210
 | World Finals 2012                      | 2019/03/11    |  28  | . | B | C | D | **E** | . | . | . | . | . | K | L |
 | World Finals 2013                      | 2019/03/15    |  18  | A | **B** | C | D | E | F | . | H | (I) | (J) | (K) |
 | World Finals 2014                      | 2019/03/16    |   6  | . | (B) | C | D | E | (F) | . | . | I | . | K | . |
+| OpenCup X Saratov                      | 2019/03/17    |   6  | A | B | C | (D) | E | . | . | **H** | I | J | K |
+| World Finals 2015                      | 2019/03/18    |   7  | A | . | C | D | E | F | G | H | I | J | . | L | (M) |
 
 
 - A : 賽內AC
