@@ -63,7 +63,7 @@ codebook by PECaveros, wangyenjen, johnchen902, nonamefour0210
 | OpenCup X Saratov                      | 2019/03/17    |   6  | A | B | C | (D) | E | . | . | **H** | I | J | K |
 | World Finals 2015                      | 2019/03/18    |   7  | A | . | C | D | E | F | G | H | I | J | . | L | (M) |
 | World Finals 2016                      | 2019/03/22    |  27  | A | B | C | (D) | E | F | G | . | . | . | K | L | . |
-
+| Petrozavodsk 2019 Oleksandr Kulkov     | 2019/03/24    |  31  | A | . | . | (D) | E | **F** | . | H | . | (J) | K |
 
 - A : 賽內AC
 - **A** : 賽後AC
