@@ -64,7 +64,6 @@ codebook by PECaveros, wangyenjen, johnchen902, nonamefour0210
 | World Finals 2015                      | 2019/03/18    |   7  | A | . | C | D | E | F | G | H | I | J | . | L | (M) |
 | World Finals 2016                      | 2019/03/22    |  27  | A | B | C | (D) | E | F | G | . | . | . | K | L | . |
 | Petrozavodsk 2019 Oleksandr Kulkov     | 2019/03/24    |  31  | A | . | . | (D) | E | **F** | . | H | . | (J) | K |
-| World Finals 2017                      | 2019/03/25    | 110  | (A) | . | **C** | (D) | E | F | . | . | I | (J) | . | . |
 | World Finals 2019 Onsite               | 2019/04/04    |   5  | A | B | (C) | D | E | (F) | G | H | I | J | (K) |
 
 - A : 賽內AC
