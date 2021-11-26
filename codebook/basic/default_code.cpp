@@ -1,4 +1,4 @@
-/// {{{ Author: Wang, Yen-Jen
+/// {{{ Author: Yen-Jen Wang
 // include
 #include <bits/stdc++.h>
 
