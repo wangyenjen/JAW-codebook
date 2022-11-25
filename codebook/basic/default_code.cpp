@@ -6,14 +6,19 @@
 using namespace std;
 
 // types
-typedef long long ll;
-typedef pair<int, int> pii;
+using ll = long long;
+using LL  = long long;
+using pii = pair<int, int>;
+using int128_t = __int128;
+using uint128_t = unsigned __int128;
 
 // macro
 #define SZ(x) ((int)x.size())
 #define ALL(x) (x).begin(), (x).end()
 #define REP(i, n) for (int i = 0; i < int(n); i++)
-#define REP1(i, a, b) for (int i = a; i <= int(b); i++)
+#define REP1(i, a, b) for (int i = int(a); i <= int(b); i++)
+#define PER(i, n) for (int i = int(n) - 1; i >= 0; i--)
+#define PER1(i, a, b) for (int i = int(a); i >= int(b); i--)
 #define F first
 #define S second
 #define MP make_pair
@@ -75,9 +80,9 @@ template<typename I, typename... T> inline void PL(const I x, const T... tail) {
 }
 
 // debug
-#define WangYenJen
+#define WYJ
 
-#ifdef WangYenJen
+#ifdef WYJ
 template<typename I> void _DOING(const char *s, I&& x) {
   cerr << s << " = " << x << endl;
 }
@@ -111,7 +116,7 @@ const ll INF64 = 0x3f3f3f3f3f3f3f3fll;
 // random function
 inline int RAND() {
   static int x = 880301;
-  return (x = x * 0xdefaced + 1) % 0x7fffffff;
+  return (x = x * 0xdefacedLL + 1) % 0x7fffffff;
 }
 /// }}}
 
